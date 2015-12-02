@@ -1,0 +1,13 @@
+Use the provided design comp to create a one­page website using HTML and CSS.
+
+Your final submission should meet the following criteria:
+
+● Must work in IE10+, Chrome, FIrefox, and Safari
+
+● The button should be a link, and it should have a white background with blue text when the user hovers over it with their cursor.
+
+● Must be responsive (stack the row into a single column on smaller screens)
+
+● Use Google fonts (https://www.google.com/fonts) to import the Open Sans webfont
+
+● Bonus points for Sass, if that’s your cup of tea.
