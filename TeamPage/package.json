@@ -1,0 +1,11 @@
+{
+  "name": "teampage",
+  "version": "1.0.0",
+  "description": "For creating Team Page based on Coalmarch design doc",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jon Creasman",
+  "license": "ISC"
+}
