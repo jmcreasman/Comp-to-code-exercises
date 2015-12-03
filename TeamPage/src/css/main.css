@@ -20,14 +20,8 @@ body {
     font-style: italic; }
   body .team-page-button .work-here {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 7%;
-    margin-bottom: 5%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 30px;
-    padding-left: 30px;
+    margin: 7% auto 5%;
+    padding: 10px 30px;
     font-size: 14px;
     font-weight: bold;
     border: 1px solid;
@@ -37,6 +31,7 @@ body {
     color: #FFFFFF;
     transition: color 0.5s, background-color 0.5s; }
   body .team-page-button .work-here:hover {
+    cursor: pointer;
     color: #0EBFDD;
     background-color: #FFFFFF; }
 
@@ -51,7 +46,7 @@ body {
   display: table;
   clear: both; }
 
-@media screen and (max-width: 30em) {
+@media screen and (max-width: 40em) {
   .col-1-3 {
     width: 100%; }
   .team-page-bio img {
