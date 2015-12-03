@@ -1,0 +1,29 @@
+body {
+  background-color: #0EBFDD; }
+  body p {
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif; }
+  body .team-page-title p {
+    text-align: center;
+    font-size: 32px; }
+  body .team-page-bio img {
+    margin: auto; }
+  body .team-page-bio .bio-title {
+    font-style: italic; }
+  body .team-page-button .work-here {
+    border: 1px solid;
+    border-radius: 25px;
+    text-transform: uppercase;
+    background-color: #0EBFDD;
+    color: #FFFFFF; }
+
+[class*='col-'] {
+  float: left; }
+
+.col-1-3 {
+  width: 33.33%; }
+
+.grid:after {
+  content: "";
+  display: table;
+  clear: both; }
